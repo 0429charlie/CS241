@@ -11,6 +11,6 @@ A3~A4: Program that perform intepretation of Regular expressions, Scanning and s
 
 A5~A7: Program that perform Top-down (LL(1)) and bottom-up parsing (LR(1)).
 
-A8~A10: Code generation for WLPP grammar rule using assembler, loader, relocation, and linkers given or generated in past assignments (WLPP is the c-like programming language developed in the University of Waterloo for educational purpose).
+A8~A10: Code generation for WLPP grammar rule using assembler, loader, relocation, and linkers given or generated in past assignments (WLPP is the c-like programming language developed in the University of Waterloo for educational purpose - https://www.student.cs.uwaterloo.ca/~cs241/wlpp/WLPP.html).
 
 Please follow cs241.pdf for the step and the main concept thought in class. For assignemnt 10, wlp4gen.cc is the compiler and wlp4i is the input and asm is the outputed assemply language. 
