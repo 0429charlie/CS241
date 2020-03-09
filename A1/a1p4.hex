@@ -1,0 +1,6 @@
+.word 0x0022202a ; slt $4, $1, $2
+.word 0x10800002 ; beq $4, $0, 2
+.word 0x00611820 ; add $3, $3, $1
+.word 0x03e00008 ; return
+.word 0x00621820 ; add $3, $3, $2
+.word 0x03e00008 ; return

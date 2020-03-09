@@ -1,0 +1,31 @@
+2
+0
+1
+8
+start
+zero
+1mod6
+3mod6
+0mod6
+4mod6
+2mod6
+5mod6
+start
+2
+1mod6
+5mod6
+14
+start 0 zero
+start 1 1mod6
+1mod6 1 3mod6
+3mod6 0 0mod6
+0mod6 0 0mod6
+0mod6 1 1mod6
+3mod6 1 1mod6
+1mod6 0 2mod6
+2mod6 1 5mod6
+5mod6 1 5mod6
+5mod6 0 4mod6
+4mod6 0 2mod6
+2mod6 0 4mod6
+4mod6 1 3mod6

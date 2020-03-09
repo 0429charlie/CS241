@@ -1,0 +1,35 @@
+4
+cat
+dog
+iguana
+mouse
+5
+start
+cat
+cat_dog
+cat_dog_iguana
+cat_dog_iguana_mouse
+start
+1
+cat_dog_iguana_mouse
+20
+start cat cat
+cat dog cat_dog
+cat_dog iguana cat_dog_iguana
+cat_dog_iguana mouse cat_dog_iguana_mouse
+start dog start
+start iguana start
+start mouse start
+cat cat cat
+cat iguana cat
+cat mouse cat
+cat_dog cat cat_dog
+cat_dog dog cat_dog
+cat_dog mouse cat_dog
+cat_dog_iguana cat cat_dog_iguana
+cat_dog_iguana dog cat_dog_iguana
+cat_dog_iguana iguana cat_dog_iguana
+cat_dog_iguana_mouse cat cat_dog_iguana_mouse
+cat_dog_iguana_mouse dog cat_dog_iguana_mouse
+cat_dog_iguana_mouse iguana cat_dog_iguana_mouse
+cat_dog_iguana_mouse mouse cat_dog_iguana_mouse

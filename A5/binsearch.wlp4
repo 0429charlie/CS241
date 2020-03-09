@@ -1,0 +1,32 @@
+// WLP4 function that perform binary search and return the indext of the target value or -1 if can't find the value
+// (Itn *) Int Int -> Int
+// requires: the given array have to be on sorted order
+
+int binsearch(int *a, int size, int value) {
+	int first = 0;
+	int last = 0;
+	int index = 0;
+	last = size - 1;
+	if (first > last) {
+		index = 0 - 1;
+	} else {
+		while (first <= last) {
+			index = first + last;
+			index = index / 2;
+			if (*(a + index) < value) {
+				first = index + 1;
+			} else {}
+			if (*(a + index) > value) {
+				last = index - 1;
+			} else {}
+			if (*(a + index) == value) {
+				first = 1;
+				last = 0;
+			} else {}
+		}
+	}
+	if (*(a + index) != value) {
+		index = 0 - 1;
+	} else {}
+	return index;
+}

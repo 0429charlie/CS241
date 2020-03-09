@@ -1,0 +1,255 @@
+80
+a
+b
+c
+d
+e
+f
+g
+h
+i
+j
+k
+l
+m
+n
+o
+p
+q
+r
+s
+t
+u
+v
+w
+x
+y
+z
+A
+B
+C
+D
+E
+F
+G
+H
+I
+J
+K
+L
+M
+N
+O
+P
+Q
+R
+S
+T
+U
+V
+W
+X
+Y
+Z
+(
+)
+{
+}
+=
+!
+<
+>
++
+-
+*
+/
+%
+,
+;
+[
+]
+&
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+9
+num
+start
+comp
+bin
+!
+!=
+other
+ID
+zero
+start
+7
+zero
+num
+bin
+comp
+!=
+other
+ID
+154
+start = comp
+start < comp
+start > comp
+comp = bin
+start ! !
+! = !=
+start ( other
+start ) other
+start { other
+start } other
+start + other
+start - other
+start * other
+start / other
+start % other
+start , other
+start ; other
+start [ other
+start ] other
+start & other
+start a ID
+start b ID
+start c ID
+start d ID
+start e ID
+start f ID
+start g ID
+start h ID
+start i ID
+start j ID
+start k ID
+start l ID
+start m ID
+start n ID
+start o ID
+start p ID
+start q ID
+start r ID
+start s ID
+start t ID
+start u ID
+start v ID
+start w ID
+start x ID
+start y ID
+start z ID
+start A ID
+start B ID
+start C ID
+start D ID
+start E ID
+start F ID
+start G ID
+start H ID
+start I ID
+start J ID
+start K ID
+start L ID
+start M ID
+start N ID
+start O ID
+start P ID
+start Q ID
+start R ID
+start S ID
+start T ID
+start U ID
+start V ID
+start W ID
+start X ID
+start Y ID
+start Z ID
+start 1 num
+start 2 num
+start 3 num
+start 4 num
+start 5 num
+start 6 num
+start 7 num
+start 8 num
+start 9 num
+start 0 zero
+num 1 num
+num 2 num
+num 3 num
+num 4 num
+num 5 num
+num 6 num
+num 7 num
+num 8 num
+num 9 num
+num 0 num
+ID a ID
+ID b ID
+ID c ID
+ID d ID
+ID e ID
+ID f ID
+ID g ID
+ID h ID
+ID i ID
+ID j ID
+ID k ID
+ID l ID
+ID m ID
+ID n ID
+ID o ID
+ID p ID
+ID q ID
+ID r ID
+ID s ID
+ID t ID
+ID u ID
+ID v ID
+ID w ID
+ID x ID
+ID y ID
+ID z ID
+ID A ID
+ID B ID
+ID C ID
+ID D ID
+ID E ID
+ID F ID
+ID G ID
+ID H ID
+ID I ID
+ID J ID
+ID K ID
+ID L ID
+ID M ID
+ID N ID
+ID O ID
+ID P ID
+ID Q ID
+ID R ID
+ID S ID
+ID T ID
+ID U ID
+ID V ID
+ID W ID
+ID X ID
+ID Y ID
+ID Z ID
+ID 1 ID
+ID 2 ID
+ID 3 ID
+ID 4 ID
+ID 5 ID
+ID 6 ID
+ID 7 ID
+ID 8 ID
+ID 9 ID
+ID 0 ID

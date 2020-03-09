@@ -1,0 +1,4 @@
+.word 0x00001014 ; lis $2
+.word 0x00000004 ; $2 = 4
+.word 0x00221820 ; add $3, $1, $2 
+.word 0x03e00008 ; return 

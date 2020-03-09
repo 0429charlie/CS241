@@ -1,0 +1,36 @@
+//
+// WLP4 Program to compute:
+//   x^n using exponentiation by squaring
+//
+
+int wain(int x, int n) {
+	int y = 0;
+	int e = 0;
+	int o = 0;
+	int cmp = 0;
+	if (n < 0) {
+		x = 1 / x;
+		o = 0 - 1;
+		n = n * o;
+	} else {}
+	if (n == 0) {
+		x = 1;
+		y = 1;
+	} else {
+		y = 1;
+		while (n > 1) {
+			cmp = n % 2;
+			if (cmp == 0) {
+				x = x * x;
+				n = n / 2;
+			} else {
+				y = x * y;
+				x = x * x;
+				n = n - 1;
+				n = n / 2;
+			}
+		}
+	}
+	e = x * y; 
+	return e;
+}

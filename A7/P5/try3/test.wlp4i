@@ -1,0 +1,52 @@
+procedures main
+main INT WAIN LPAREN dcl COMMA dcl RPAREN LBRACE dcls statements RETURN expr SEMI RBRACE
+expr term
+term factor
+factor ID
+statements statements statement
+statement WHILE LPAREN test RPAREN LBRACE statements RBRACE
+statements statements statement
+statement lvalue BECOMES expr SEMI
+expr expr PLUS term
+term factor
+factor NUM
+expr term
+term factor
+factor ID
+lvalue ID
+statements statements statement
+statement lvalue BECOMES expr SEMI
+expr expr PLUS term
+term factor
+factor STAR factor
+factor LPAREN expr RPAREN
+expr expr PLUS term
+term factor
+factor ID
+expr term
+term factor
+factor ID
+expr term
+term factor
+factor ID
+lvalue ID
+statements
+test expr LT expr
+expr term
+term factor
+factor ID
+expr term
+term factor
+factor ID
+statements
+dcls dcls dcl BECOMES NUM SEMI
+dcl type ID
+type INT
+dcls dcls dcl BECOMES NUM SEMI
+dcl type ID
+type INT
+dcls
+dcl type ID
+type INT
+dcl type ID
+type INT STAR
